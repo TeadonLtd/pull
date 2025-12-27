@@ -1,4 +1,4 @@
-##Create the Makefile
+## Create the Makefile
 
 Inside your project root directory, create a file named **Makefile** (no extension).
 
@@ -165,5 +165,6 @@ build/
 * Scales well for team projects and CI/CD
 
 ---
+
 
 
